@@ -11,5 +11,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakamoto-kohei-44&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-[![sakamoto-kohei-44's github activity graph](https://activity-graph.herokuapp.com/graph?username=sakamoto-kohei-44&theme=xcode)](https://git.io/sakamoto-kohei-44)
